@@ -1,2 +1,3 @@
 # AWSUGJaipur
-AWS Community Day Code 
+AWS Community Day Code for the Bedrock API Demo
+
